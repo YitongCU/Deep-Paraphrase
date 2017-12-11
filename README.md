@@ -30,7 +30,12 @@ Hierarchical/ Mixture VAE
 
 Deep Recurrent Generative Decoder for Abstractive Text Summarization. https://arxiv.org/abs/1708.00625 Git: https://github.com/toru34/li_emnlp_2017
 
-Knowledge Graph
+VAE Tutorial https://arxiv.org/abs/1606.05908
+
+John Paisley http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf. LECTURE 6 Variational Inference
+Carl Doersch, Tutorial on Variational Autoencoders, https://arxiv.org/abs/1606.05908
+
+## Knowledge Graph
 
 Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks. https://arxiv.org/abs/1704.08384
 
@@ -40,10 +45,7 @@ Compositional Vector Space Models for Knowledge Base Inference. https://www.aaai
 
 Knowledge Graphs: https://people.mpi-inf.mpg.de/~weikum/weikum-adc2015-forwebsite.pdf
 
-Command Lines
+## Command Lines
 
 data preprocessing python make_datafiles_tokd.py ../data/tokened/ ../data/processed
-VAE Tutorial
 
-John Paisley http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf. LECTURE 6 Variational Inference
-Carl Doersch, Tutorial on Variational Autoencoders, https://arxiv.org/abs/1606.05908
