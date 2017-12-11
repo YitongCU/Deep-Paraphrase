@@ -6,6 +6,8 @@ REFERENCE:
 
 Zhao et al., Adversarially Regularized Autoencoders for Generating Discrete Structures.https://arxiv.org/abs/1706.04223 Git Repo: https://github.com/jakezhaojb/ARAE (Pytorch)
 
+Kim et al., ADVERSARIALLY REGULARIZED AUTOENCODERS https://arxiv.org/pdf/1706.04223.pdf
+
 Gutpa et al, A Deep Generative Framework for Paraphrase Generation. https://arxiv.org/abs/1709.05074. Dataset: https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
 
 Samuel et al, Generating Sentences from a Continuous Space. https://arxiv.org/abs/1511.06349# Git Repo:https://github.com/kefirski/pytorch_RVAE (Pytorch) Git Repo:https://github.com/Chung-I/Variational-Recurrent-Autoencoder-Tensorflow (TF)
