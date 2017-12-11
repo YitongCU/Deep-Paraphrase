@@ -1,5 +1,3 @@
-# Deep-Paraphrase
-
 # Deep models for Paraphrase and Summarization
 
 REFERENCE:
