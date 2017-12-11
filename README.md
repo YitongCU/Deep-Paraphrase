@@ -20,10 +20,6 @@ Learning to Paraphrase for Question Answering. https://arxiv.org/abs/1708.06022
 
 Goodfellow et al, EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES. https://arxiv.org/abs/1412.6572. (Adversarial training for continous input)
 
-Deep Recurrent Generative Decoder for Abstractive Text Summarization. https://arxiv.org/abs/1708.00625 Git: https://github.com/toru34/li_emnlp_2017
-
-Deep Recurrent Generative Decoder for Abstractive Text Summarization. https://arxiv.org/abs/1708.00625 Git: https://github.com/toru34/li_emnlp_2017
-
 ## VAE
 
 Hierarchical/ Mixture VAE
