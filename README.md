@@ -20,7 +20,9 @@ Goodfellow et al, EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES. https://arxiv.
 
 ## VAE
 
-Hierarchical/ Mixture VAE
+Hierarchical/ Mixture VAE/
+
+Semi VAE/ Conditional VAE git: https://github.com/wohlert/semi-supervised-pytorch
 
 Deep Recurrent Generative Decoder for Abstractive Text Summarization. https://arxiv.org/abs/1708.00625 Git: https://github.com/toru34/li_emnlp_2017
 
